@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "root",
+      "password": "Gizmoe_90!",
+      "database": "notes_db",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": null,
+      "database": "database_test",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "dbgmg9g589qoncuo",
+      "password": "ac0k6prxiubydpdv",
+      "database": "z5yoykkkld2m665w",
+      "host": "s0znzigqvfehvff5.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+      "dialect": "mysql"
+    }
+  }
